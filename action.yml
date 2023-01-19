@@ -1,4 +1,4 @@
-name: 'Name must be unique. Cannot match an existing action, user or organization name.'
+name: 'Name must be unique'
 description: 'This action checks if your GitHub Issue doesn't have any description after creation and editing. Desc < 125 characters'
 on: 
   workflow_call:
